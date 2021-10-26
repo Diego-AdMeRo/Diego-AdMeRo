@@ -14,7 +14,7 @@ Soy una persona proactiva, respetuoso, disciplinado y que le gusta estar en cons
 ## Academia :writing_hand:
 - Ingeniería de Sistemas Universidad Piloto de Colombia
 
-## Experiencia Laboral :school:
+## Experiencia Laboral :technologist:
 - Prácticas Profesionales (6 meses) en Avianca Holdings S.A (2021)
 
 ## Logros Académicos :1st_place_medal:
