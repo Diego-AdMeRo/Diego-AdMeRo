@@ -1,7 +1,7 @@
 
 ## Introducción :boy:
 
-Soy estudiante de 9.° semestre de Ingeniería de Sistemas (COL), interesado en el desarrollo de software, con conocimiento en:
+Soy estudiante de 10.° semestre de Ingeniería de Sistemas (COL), interesado en el desarrollo de software, con conocimiento en:
 
 - Aplicativos Web, cliente-servidor y stand-alone mediante JAVA, Python, JS y C#
 - Bases de datos: CosmosDB MongoDB, MySQL, Oracle, Firebase/Firestore
