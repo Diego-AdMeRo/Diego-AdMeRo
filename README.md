@@ -1,12 +1,12 @@
 
 ## Introducción :boy:
 
-Soy estudiante de 10.° semestre de Ingeniería de Sistemas (COL), interesado en el desarrollo de software, con conocimiento en:
+Ingeniero de Sistemas (COL), interesado en el desarrollo de software, con conocimiento en:
 
-- Aplicativos Web, cliente-servidor y stand-alone mediante JAVA, Python, JS y C#
+- Aplicativos Web, cliente-servidor y stand-alone mediante JAVA, Python, JS, C# y Angular
 - Bases de datos: CosmosDB MongoDB, MySQL, Oracle, Firebase/Firestore
 - Linux y Windows
-- Microsoft Azure
+- Microsoft Azure (Azure AD, Azure B2C, AppServices, Virtual Machines, Api Management, Azure SQL Server)
 
 ## Habilidades :mechanic:
 Soy una persona proactiva, respetuoso, disciplinado y que le gusta estar en constante aprendizaje
@@ -15,6 +15,8 @@ Soy una persona proactiva, respetuoso, disciplinado y que le gusta estar en cons
 - Ingeniería de Sistemas Universidad Piloto de Colombia
 
 ## Experiencia Laboral :technologist:
+- Desarrollador C# y Angular (Actualidad) en Avianca Holdings S.A | DXC Technology (2022)
+- Analista Técnico (7 meses) en Avianca Holdings S.A | DXC Technology (2022)
 - Prácticas Profesionales (6 meses) en Avianca Holdings S.A (2021)
 
 ## Logros Académicos :1st_place_medal:
